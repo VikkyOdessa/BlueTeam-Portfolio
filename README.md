@@ -1,2 +1,33 @@
 # BlueTeam-Portfolio
 Practical Blue Team investigations, incident response labs, and cybersecurity projects
+
+
+# Blue Team Investigations & Cyber Defense Portfolio 🛡️
+
+Welcome! I am a Cyber Security Analyst focused on incident response, cloud security, and automation. This repository documents my practical labs and security projects.
+
+## 👤 Professional Profile
+- **Location:** Ireland
+- **Certifications:** 
+  - ✅ CompTIA Security+
+  - ✅ Microsoft Azure Fundamentals (AZ-900)
+  - ✅ IT Specialist: Python
+  - ⏳ CompTIA CySA+ (In Progress)
+
+---
+
+## 🔬 Practical Investigations (Blue Team Labs Online)
+
+### 1. Phishing Analysis 📧
+*   **Difficulty:** Easy
+*   **Tools:** Sublime Text, CyberChef, MXToolbox, Whois.
+*   **Skills:** Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
+*   **Outcome:** Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
+*   
+- **BTLO Profile:** [My Investigations & Badges] https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
+---
+
+## 🛠️ Technical Skills
+- **Cloud:** Azure Security (Sentinel, Defender).
+- **Automation:** Python for Security (Custom DLP Agent project).
+- **Analysis:** Wireshark, Splunk, Windows Event Logs.
