@@ -20,12 +20,20 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 
 ### 1. Phishing Analysis 📧
 *   **Difficulty:** Easy
-*   **Tools:** Sublime Text, CyberChef, MXToolbox, Whois.
+*   **Tools:** Thunderbird, Sublime Text, URLScan, Whois.
 *   **Skills:** Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
 *   **Outcome:** Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
 *   
 - **BTLO Profile:** [My Investigations & Badges] https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
----
+
+### 2. Phishing Analysis-2 📧
+
+* **Difficulty:** Easy  
+• **Tools: Thunderbird, Sublime Text, CyberChef, URLBox
+• **Skills: Email Header Analysis, URL Investigation, Base64 Decoding, Indicator Identification  
+• **Outcome: Investigated a suspicious email, decoded obfuscated content, and identified a hidden phishing link to an external profile.
+
+- **BTLO Profile:** [My Investigations & Badges] (https://blueteamlabs.online/achievement/share/challenge/155436/24)
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
