@@ -14,7 +14,6 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
   - ✅ IT Specialist: Python
   - ⏳ CompTIA CySA+ (In Progress)
 
----
 
 ## 🔬 Practical Investigations (Blue Team Labs Online)
 
