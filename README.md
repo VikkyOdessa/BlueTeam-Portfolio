@@ -35,6 +35,15 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 
 - **BTLO Profile:** [My Investigations & Badges] (https://blueteamlabs.online/achievement/share/challenge/155436/24)
 
+### 3. Brute-force Attack Investigation 📊  
+Difficulty:** Medium  
+
+• **Tools:** Microsoft Excel, IP lookup services  
+• **Skills:** Windows Event Log Analysis (Event ID 4625), Log Filtering, Source IP Identification, Port Range Analysis  
+• **Outcome:** Analyzed Windows Security logs, identified repeated failed logon attempts, detected a brute-force attack, and determined the source IP and port range.  
+
+BTLO Profile: [My Investigations & Badges] (https://blueteamlabs.online/achievement/share/challenge/155436/40)
+
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
 - **Automation:** Python for Security (Custom DLP Agent project).
