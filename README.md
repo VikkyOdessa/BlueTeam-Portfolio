@@ -18,20 +18,23 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 ## 🔬 Practical Investigations (Blue Team Labs Online)
 
 ### 1. Phishing Analysis 📧
-*   **Difficulty:** Easy
-*   **Tools:** Thunderbird, Sublime Text, URLScan, Whois.
-*   **Skills:** Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
-*   **Outcome:** Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
-*   
+* **Difficulty:** Easy
+* Tools: Thunderbird, Sublime Text, URLScan, Whois.
+* Skills: Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
+* Outcome: Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
+    
 - **BTLO Profile:** My Investigations & Badges
 - https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
 
 ### 2. Phishing Analysis-2 📧
 
-* **Difficulty:** Easy  
-• **Tools: Thunderbird, Sublime Text, CyberChef, URLBox
-• **Skills: Email Header Analysis, URL Investigation, Base64 Decoding, Indicator Identification  
-• **Outcome: Investigated a suspicious email, decoded obfuscated content, and identified a hidden phishing link to an external profile.
+• Difficulty: Easy
+
+• Tools: Thunderbird, Sublime Text, CyberChef, URLBox
+
+• Skills: Email Header Analysis, URL Investigation, Base64 Decoding, Indicator Identification
+
+• Outcome: Investigated a suspicious email, decoded obfuscated content, and identified a hidden phishing link to an external profile.
 
 - **BTLO Profile:** My Investigations & Badges
   https://blueteamlabs.online/achievement/share/challenge/155436/24
@@ -55,6 +58,20 @@ Difficulty: Medium
 
 BTLO Profile: My Investigations & Badges  
 https://blueteamlabs.online/achievement/share/challenge/155436/44
+
+### 5. Meta Investigation 📊
+
+Difficulty: Medium
+
+• **Tools:** ExifTool, Google Earth, TinEye
+
+• **Skills:** Metadata Analysis, EXIF Data Extraction, GPS Coordinate Conversion, Geolocation, Reverse Image Search
+
+• **Outcome:** Extracted metadata from images to identify camera model, capture time, and embedded comments, determined geographic location using GPS data and validated the findings through reverse image search to locate the suspect’s possible whereabouts.
+
+BTLO Profile: My Investigations & Badges
+https://blueteamlabs.online/achievement/share/challenge/155436/39
+
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
