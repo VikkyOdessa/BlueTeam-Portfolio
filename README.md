@@ -72,6 +72,19 @@ Difficulty: Medium
 BTLO Profile: My Investigations & Badges
 https://blueteamlabs.online/achievement/share/challenge/155436/39
 
+6. Spectrum Investigation 🎧
+
+Difficulty: Easy
+
+• Tools: PhotoRec, fcrackzip, steghide, Base58 Decoder, Google Maps
+
+• Skills: Disk Forensics, File Recovery, Archive Password Cracking, Steganography Analysis, Data Decoding, Geolocation
+
+• Outcome: Recovered files from a disk image, identified and cracked a password-protected archive, extracted hidden data from embedded files, decoded encoded information, and uncovered GPS coordinates hidden within an audio file, which were then mapped to a real-world location.
+
+BTLO Profile: My Investigations & Badges
+https://blueteamlabs.online/achievement/share/challenge/155436/26
+
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
