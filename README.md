@@ -23,7 +23,7 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 * Skills: Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
 * Outcome: Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
     
-- **BTLO Profile:** My Investigations & Badges
+- **BTLO Profile:** My Investigations & Badges:
 - https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
 
 ### 2. Phishing Analysis-2 📧
@@ -46,7 +46,7 @@ Difficulty:** Medium
 • **Skills:** Windows Event Log Analysis (Event ID 4625), Log Filtering, Source IP Identification, Port Range Analysis  
 • **Outcome:** Analyzed Windows Security logs, identified repeated failed logon attempts, detected a brute-force attack, and determined the source IP and port range.  
 
-BTLO Profile: My Investigations & Badges
+BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/40
 
 ### 4. The Report II 📄  
@@ -56,7 +56,7 @@ Difficulty: Medium
 • **Skills:** SOC Concepts, Incident Response Workflow, Threat Intelligence, Organizational Models, Log & Data Understanding  
 • **Outcome:** Analyzed MITRE SOC report, identified key operational strategies, SOC structures, incident prioritization methods, and extracted actionable insights for improving SOC effectiveness.  
 
-BTLO Profile: My Investigations & Badges  
+BTLO Profile: My Investigations & Badges:  
 https://blueteamlabs.online/achievement/share/challenge/155436/44
 
 ### 5. Meta Investigation 📊
@@ -82,7 +82,7 @@ Difficulty: Easy
 
 • Outcome: Recovered files from a disk image, identified and cracked a password-protected archive, extracted hidden data from embedded files, decoded encoded information, and uncovered GPS coordinates hidden within an audio file, which were then mapped to a real-world location.
 
-BTLO Profile: My Investigations & Badges
+BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/26
 
 
@@ -96,7 +96,7 @@ Difficulty: Easy
 
 • Outcome: Analysed a 2022 threat report to extract actionable intelligence for SOC operations, identified major attacks such as Log4Shell, mapped techniques to MITRE ATT&CK, reviewed critical vulnerabilities (including Exchange exploits and zero-day RCE), analysed ransomware affiliate models (Conti), and defined detection and prevention measures (e.g., parent process monitoring, RDP hardening) to improve SOC readiness.
 
-BTLO Profile: My Investigations & Badges
+BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/42
 
 
@@ -123,6 +123,8 @@ It's all about connecting the dots!
 
 <img width="1885" height="509" alt="Снимок экрана 2026-04-24 183359" src="https://github.com/user-attachments/assets/d3e2dc0f-c4c5-4368-ad7d-461a6de02894" />
 
+BTLO Profile: My Investigations & Badges:
+https://blueteamlabs.online/achievement/share/challenge/155436/18
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
