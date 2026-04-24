@@ -149,6 +149,9 @@ Analysed a suspicious JWT token to identify and fix a privilege escalation vulne
 
 🕵️ Extracted a hidden hint from the payload: _4_Eyes
 
+<img width="1916" height="883" alt="image" src="https://github.com/user-attachments/assets/b5bb383c-b884-47f5-a2fb-35f03667235a" />
+
+
 ⚡ Cracked the JWT signing secret using Hashcat (-m 16500) in under 1 second
 
 ✅ Generated a new verified low-privilege token with admin: false
