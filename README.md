@@ -82,6 +82,9 @@ Difficulty: Easy
 
 • Outcome: Recovered files from a disk image, identified and cracked a password-protected archive, extracted hidden data from embedded files, decoded encoded information, and uncovered GPS coordinates hidden within an audio file, which were then mapped to a real-world location.
 
+<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/ae26c448-0ed4-4462-85ae-90975c8b3cd3" />
+
+
 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/26
 
@@ -163,6 +166,16 @@ It's all about the strength of your secret!
 
 🏆 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/35
+
+10. MITRE ATT&CK Framework Challenge 🛡️
+Difficulty: Easy
+
+Tools: MITRE ATT&CK Navigator, attack.mitre.org
+Skills: Tactic Identification, Technique Mapping, APT Group Research, Cloud Security, Threat Detection
+Outcome: Identified techniques by tactic ID, mapped APT group G0099 to uncommon port activity, identified T1538 (Cloud Service Dashboard) as mitigation for cloud Discovery attacks, and determined detection methods for Pass the Hash technique in enterprise environments.
+
+BTLO Profile: My Investigations & Badges:
+https://blueteamlabs.online/achievement/share/challenge/155436/15
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
