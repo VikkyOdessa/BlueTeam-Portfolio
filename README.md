@@ -25,7 +25,7 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
     
 - **BTLO Profile:** My Investigations & Badges:
 - https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
-
+______________________________________________________________________________________________________
 ### 2. Phishing Analysis-2 📧
 
 • Difficulty: Easy
@@ -39,6 +39,8 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 - **BTLO Profile:** My Investigations & Badges
   https://blueteamlabs.online/achievement/share/challenge/155436/24
 
+  ______________________________________________________________________________________________________
+
 ### 3. Brute-force Attack Investigation 📊  
 Difficulty:** Medium  
 
@@ -49,6 +51,8 @@ Difficulty:** Medium
 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/40
 
+______________________________________________________________________________________________________
+
 ### 4. The Report II 📄  
 Difficulty: Medium  
 
@@ -58,6 +62,8 @@ Difficulty: Medium
 
 BTLO Profile: My Investigations & Badges:  
 https://blueteamlabs.online/achievement/share/challenge/155436/44
+
+______________________________________________________________________________________________________
 
 ### 5. Meta Investigation 📊
 
@@ -72,6 +78,8 @@ Difficulty: Medium
 BTLO Profile: My Investigations & Badges
 https://blueteamlabs.online/achievement/share/challenge/155436/39
 
+______________________________________________________________________________________________________
+
 6. Spectrum Investigation 🎧
 
 Difficulty: Easy
@@ -84,9 +92,10 @@ Difficulty: Easy
 
 <img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/ae26c448-0ed4-4462-85ae-90975c8b3cd3" />
 
-
 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/26
+
+______________________________________________________________________________________________________
 
 
 7. Threat Report Analysis (SOC) 📊
@@ -102,6 +111,7 @@ Difficulty: Easy
 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/42
 
+______________________________________________________________________________________________________
 
 8.🔍 Log Analysis: Sysmon (SOC)
 
@@ -136,6 +146,8 @@ It's all about connecting the dots!
 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/18
 
+______________________________________________________________________________________________________
+
 9. 🔍 Secrets — JWT Analysis (SOC)
     
 Difficulty: Easy 🟢
@@ -163,9 +175,10 @@ It's all about the strength of your secret!
 
 <img width="1101" height="584" alt="Снимок экрана 2026-04-24 224206" src="https://github.com/user-attachments/assets/9fbc225b-3d46-4879-b6f3-328036487faa" />
 
-
 🏆 BTLO Profile: My Investigations & Badges:
 https://blueteamlabs.online/achievement/share/challenge/155436/35
+
+______________________________________________________________________________________________________
 
 10. MITRE ATT&CK Framework Challenge 🛡️
 Difficulty: Easy
@@ -174,8 +187,40 @@ Tools: MITRE ATT&CK Navigator, attack.mitre.org
 Skills: Tactic Identification, Technique Mapping, APT Group Research, Cloud Security, Threat Detection
 Outcome: Identified techniques by tactic ID, mapped APT group G0099 to uncommon port activity, identified T1538 (Cloud Service Dashboard) as mitigation for cloud Discovery attacks, and determined detection methods for Pass the Hash technique in enterprise environments.
 
-BTLO Profile: My Investigations & Badges:
+BTLO Profile: My Investigations & Badges
 https://blueteamlabs.online/achievement/share/challenge/155436/15
+
+______________________________________________________________________________________________________
+
+11. Shiba Insider (BTLO) 🐕
+Difficulty: Easy
+
+Tools: Wireshark, Steghide, Command Line, Exiftool
+
+Skills: Network traffic analysis (PCAP), file forensics, steganography, metadata extraction, password cracking
+
+Outcome: Analysed a PCAP file to extract a response message and ZIP password, used Exiftool to find hidden metadata in an image file, identified steganography tool from metadata clues, extracted a hidden ID using Steghide, and traced the attacker's profile name — completing a full forensic chain from network capture to hidden data extraction.
+
+<img width="1313" height="831" alt="logs" src="https://github.com/user-attachments/assets/7ef6e14a-8d32-4242-8177-1a5d6c2ed888" />
+
+BTLO Profile: My Investigations & Badges
+https://blueteamlabs.online/achievement/share/challenge/155436/29
+
+______________________________________________________________________________________________________
+
+12. D3FEND (BTLO) 🛡️
+Difficulty: Easy
+
+Tools: D3FEND Framework
+
+Skills: Defensive cybersecurity frameworks, mapping defensive techniques to offensive techniques, threat modelling, MITRE D3FEND navigation, Azure Sentinel integration
+
+Outcome: Explored the MITRE D3FEND framework to identify defensive technique IDs and names, mapped five general defensive tactics, investigated open-source projects that connect Azure Sentinel rules to MITRE ATT&CK and D3FEND, and defined key concepts such as File Access Pattern Analysis and Local Resource Access artifacts — building practical knowledge of defensive countermeasures for SOC operations.
+
+BTLO Profile: My Investigations & Badges
+https://blueteamlabs.online/achievement/share/challenge/155436/27
+
+
 
 ## 🛠️ Technical Skills
 - **Cloud:** Azure Security (Sentinel, Defender).
