@@ -229,7 +229,11 @@ https://blueteamlabs.online/achievement/share/challenge/155436/27
 - **Threat Intelligence:** MITRE ATT&CK, Ransomware TTPs, IOC Analysis
 
 
+## 📁 Repository Structure
 
+malware-analysis/
+├── powershell-keylogger/
+└── follina-cve-2022-30190/
   
 
   
