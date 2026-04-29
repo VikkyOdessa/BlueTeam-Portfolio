@@ -20,37 +20,14 @@ Preparing for CySA+.
 
 ## 📁 What's Inside
 
-### 🦠 Malware Analysis
-    → PowerShell Keylogger  
-    → Follina CVE-2022-30190  
+| Category | Labs |
+|---|---|
+| 🦠 Malware Analysis | PowerShell Keylogger, Follina CVE-2022-30190 |
+| 🚨 Incident Response | Phishing, Brute-force, Meta, Spectrum |
+| 📊 SOC / Log Analysis | Sysmon, JWT, Threat Report |
+| 🌐 Network Forensics | Shiba Insider |
+| 🧠 Threat Intelligence | MITRE ATT&CK, D3FEND, The Report II |
 
-### 🚨 Incident Response
-    → Phishing Analysis  
-    → Brute-force Attack Investigation  
-    → Meta Investigation  
-    → Spectrum Investigation  
-
-### 📊 SOC / Log Analysis
-    → Sysmon Log Analysis  
-    → JWT Analysis  
-    → Threat Report Analysis  
-
-### 🌐 Network Forensics
-    → Shiba Insider  
-
-### 🧠 Threat Intelligence
-    → MITRE ATT&CK Challenge  
-    → MITRE D3FEND  
-    → The Report II
-
----
-
-## 🛠️ Tools & Skills
-
-`Wireshark` `Splunk` `MITRE ATT&CK` `VirusTotal` `CyberChef`  
-`Windows Event Logs` `Azure Sentinel` `Python` `oletools`
-
----
 
 ## 💬 My motto
 *Patience and Persistence* 🧘‍♀️✨
