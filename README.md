@@ -17,41 +17,7 @@ Welcome! I am a Cyber Security Analyst focused on incident response, cloud secur
 
 ## 🔬 Practical Investigations (Blue Team Labs Online)
 
-### 1. Phishing Analysis 📧
-* **Difficulty:** Easy
-* Tools: Thunderbird, Sublime Text, URLScan, Whois.
-* Skills: Email Header Analysis, Malicious URL Investigation, Artifact Extraction.
-* Outcome: Analyzed a suspicious email, traced the attacker's infrastructure (IP: 103.9.171.10), and identified phishing indicators.
-    
-- **BTLO Profile:** My Investigations & Badges:
-- https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31
-______________________________________________________________________________________________________
-### 2. Phishing Analysis-2 📧
 
-• Difficulty: Easy
-
-• Tools: Thunderbird, Sublime Text, CyberChef, URLBox
-
-• Skills: Email Header Analysis, URL Investigation, Base64 Decoding, Indicator Identification
-
-• Outcome: Investigated a suspicious email, decoded obfuscated content, and identified a hidden phishing link to an external profile.
-
-- **BTLO Profile:** My Investigations & Badges
-  https://blueteamlabs.online/achievement/share/challenge/155436/24
-
-  ______________________________________________________________________________________________________
-
-### 3. Brute-force Attack Investigation 📊  
-Difficulty:** Medium  
-
-• **Tools:** Microsoft Excel, IP lookup services  
-• **Skills:** Windows Event Log Analysis (Event ID 4625), Log Filtering, Source IP Identification, Port Range Analysis  
-• **Outcome:** Analyzed Windows Security logs, identified repeated failed logon attempts, detected a brute-force attack, and determined the source IP and port range.  
-
-BTLO Profile: My Investigations & Badges:
-https://blueteamlabs.online/achievement/share/challenge/155436/40
-
-______________________________________________________________________________________________________
 
 ### 4. The Report II 📄  
 Difficulty: Medium  
@@ -65,37 +31,7 @@ https://blueteamlabs.online/achievement/share/challenge/155436/44
 
 ______________________________________________________________________________________________________
 
-### 5. Meta Investigation 📊
 
-Difficulty: Medium
-
-• **Tools:** ExifTool, Google Earth, TinEye
-
-• **Skills:** Metadata Analysis, EXIF Data Extraction, GPS Coordinate Conversion, Geolocation, Reverse Image Search
-
-• **Outcome:** Extracted metadata from images to identify camera model, capture time, and embedded comments, determined geographic location using GPS data and validated the findings through reverse image search to locate the suspect’s possible whereabouts.
-
-BTLO Profile: My Investigations & Badges
-https://blueteamlabs.online/achievement/share/challenge/155436/39
-
-______________________________________________________________________________________________________
-
-6. Spectrum Investigation 🎧
-
-Difficulty: Easy
-
-• Tools: PhotoRec, fcrackzip, steghide, Base58 Decoder, Google Maps
-
-• Skills: Disk Forensics, File Recovery, Archive Password Cracking, Steganography Analysis, Data Decoding, Geolocation
-
-• Outcome: Recovered files from a disk image, identified and cracked a password-protected archive, extracted hidden data from embedded files, decoded encoded information, and uncovered GPS coordinates hidden within an audio file, which were then mapped to a real-world location.
-
-<img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/ae26c448-0ed4-4462-85ae-90975c8b3cd3" />
-
-BTLO Profile: My Investigations & Badges:
-https://blueteamlabs.online/achievement/share/challenge/155436/26
-
-______________________________________________________________________________________________________
 
 
 7. Threat Report Analysis (SOC) 📊
