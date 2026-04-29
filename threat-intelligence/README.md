@@ -28,3 +28,16 @@ BTLO Profile: My Investigations & Badges
 https://blueteamlabs.online/achievement/share/challenge/155436/15
 
 ______________________________________________________________________________________________________
+
+
+12. D3FEND (BTLO) 🛡️
+Difficulty: Easy
+
+Tools: D3FEND Framework
+
+Skills: Defensive cybersecurity frameworks, mapping defensive techniques to offensive techniques, threat modelling, MITRE D3FEND navigation, Azure Sentinel integration
+
+Outcome: Explored the MITRE D3FEND framework to identify defensive technique IDs and names, mapped five general defensive tactics, investigated open-source projects that connect Azure Sentinel rules to MITRE ATT&CK and D3FEND, and defined key concepts such as File Access Pattern Analysis and Local Resource Access artifacts — building practical knowledge of defensive countermeasures for SOC operations.
+
+BTLO Profile: My Investigations & Badges
+https://blueteamlabs.online/achievement/share/challenge/155436/27
