@@ -56,4 +56,5 @@ Decoded a visual binary clock to extract the final piece of evidence.
 |---|---|
 | Obfuscated Files or Information | T1027 |
 
+BTLO Profile: My Investigations & Badges
 https://blueteamlabs.online/achievement/share/challenge/155436/36
