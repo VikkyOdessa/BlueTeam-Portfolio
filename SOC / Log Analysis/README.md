@@ -1,22 +1,17 @@
 # SOC / Log Analysis
 
-A collection of Security Operations Center log analysis investigations completed on Blue Team Labs Online.
+SOC investigations focused on log analysis, threat detection, and incident response.
 
 ## Investigations
 
-| Investigation | Tools | Difficulty |
-|--------------|-------|------------|
-| Paranoid | aureport, auditd, Linux CLI | Medium |
+| Investigation          | Tools                         | Difficulty |
+| ---------------------- | ----------------------------- | ---------- |
+| Paranoid               | aureport, auditd, Linux CLI   | Medium     |
+| Secure Shell           | OpenSSH Logs, grep, Linux CLI | Hard       |
+| Secrets — JWT Analysis | JWT.io, CyberChef             | Medium     |
+| Sysmon                 | Sysmon Logs, Event Analysis   | Medium     |
+| Threat Report Analysis | OSINT, Threat Intelligence    | Easy       |
 
-## Skills Covered
-- Linux audit log analysis
-- Brute force attack detection
-- Privilege escalation investigation
-- Incident timeline reconstruction
-- CVE research and identification
-
-## BTLO Profile
-https://blueteamlabs.online/achievement/share/challenge/155436/14
 
 
 
