@@ -4,16 +4,16 @@
 > *Making the complex simple — one investigation at a time.*
 
 I'm a Cyber Security Analyst in progress — breaking down real malware, 
-hunting threats, and turning logs into stories. Based in Ireland. 
-Preparing for CySA+.
+hunting threats, and turning logs into stories. Based in Ireland.
 
 ---
 
 ## 👤 About Me
 
 - 📍 Ireland
-- 🎓 CompTIA Security+ | AZ-900 | IT Specialist: Python
-- ⏳ CompTIA CySA+ (In Progress)
+- 🎓 CompTIA CySA+ | CompTIA Security+ | AZ-900 | IT Specialist: Python
+- ⏳ CompTIA Network+ 
+- 🔗 [Linkedin Profile](www.linkedin.com/in/viktoriia-pivovar)
 - 🔗 [BTLO Profile](https://blueteamlabs.online/home/user/4eb059f27d5254487a2a31)
 
 ---
